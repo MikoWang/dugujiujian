@@ -7,5 +7,8 @@ public class Dugu {
         System.out.println("jianfa 1111");
         System.out.println("jianfa 3333");
 
+        System.out.println("2dugujiujian");
+        System.out.println("1`1 dugujiujian");
+        System.out.println("222 dugujiujian");
     }
 }
