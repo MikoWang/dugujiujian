@@ -3,5 +3,9 @@ public class newjianfa {
         System.out.println("new jianfa");
         System.out.println("new jianfa");
         System.out.println("new jianfa");
+        System.out.println("new jianfa");
+        System.out.println("new jianfa");
+        System.out.println("new jianfa");
+        System.out.println("new jianfa");
     }
 }
